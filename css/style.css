@@ -31,3 +31,7 @@ p {
   font-size: 1.5rem;
   padding-top: 5pt;
 }
+
+#answer {
+  padding-top: 15px;
+}
