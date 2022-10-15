@@ -4,7 +4,7 @@
 // Created on: Oct 15 2022
 // This file contains the JS functions for index.html
 
-'use strict'
+"use strict"
 /**
-  * This function calculates the perimeter of a square.
-  */
+ * This function calculates the perimeter of a square.
+ */
