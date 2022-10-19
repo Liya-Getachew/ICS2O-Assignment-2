@@ -26,12 +26,16 @@ body {
 }
 
 p {
-  color: #9a1313;
+  color: #000;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 16px;
   padding-top: 5pt;
 }
 
 #answer {
   padding-top: 15px;
+}
+
+#formula {
+  padding-left: 20px;
 }
