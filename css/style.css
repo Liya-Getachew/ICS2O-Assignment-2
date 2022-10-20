@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #eebece;
+  background-color: #f5e5e7;
 }
 
 p {
@@ -34,6 +34,7 @@ p {
 
 #answer {
   padding-top: 15px;
+  padding-left: 20px;
 }
 
 #formula {
